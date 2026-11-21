@@ -58,5 +58,5 @@
 
 <p align="center">
   <img src="https://github-readme-stats-fast.vercel.app/api?username=wxk2378643343-cloud&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="doraBighead GitHub Stats" height="150" />
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=wxk2378643343-cloud&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="150" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=wxk2378643343-cloud&layout=compact&theme=tokyonight&hide_border=true&v=20261121-2" alt="Top Languages" height="150" />
 </p>

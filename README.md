@@ -57,6 +57,14 @@
 ### 📊 贡献动态与统计 (Contribution & Stats)
 
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=wxk2378643343-cloud&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="doraBighead GitHub Stats" height="150" />
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=wxk2378643343-cloud&layout=compact&theme=tokyonight&hide_border=true&v=20261121-2" alt="Top Languages" height="150" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=wxk2378643343-cloud&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="doraBighead GitHub Stats" height="170" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=wxk2378643343-cloud&layout=donut&theme=tokyonight&hide_border=true&langs_count=6&v=20261121-3" alt="Most Used Languages" height="170" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=wxk2378643343-cloud&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" width="495" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=wxk2378643343-cloud&theme=tokyo-night&hide_border=true" alt="GitHub Contribution Activity Graph" width="760" />
 </p>

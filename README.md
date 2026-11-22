@@ -18,12 +18,19 @@
 
 ---
 
-### 🌟 核心开源项目 (Featured Projects)
+### 开源项目 (Open Source Projects)
 
-| 项目仓库 | 核心定位与特色 | 技术栈与规范 |
-| :--- | :--- | :---: |
-| 🛰️ **[tech-radar-agent](https://github.com/dora-exploreLab/tech-radar-agent)** | **全自动前沿技术雷达与知识提炼智能体**<br/>零外部依赖本地持久化引擎、可插拔数仓驱动、智能分流与排版隔离 | ![TS](https://img.shields.io/badge/TypeScript-5.x-blue?style=flat-square) ![Agent](https://img.shields.io/badge/Agent-Harness-green?style=flat-square) ![CI](https://img.shields.io/badge/CI-Passing-brightgreen?style=flat-square) |
-| 🌌 **[obsidian-tech-vault](https://github.com/dora-exploreLab/obsidian-tech-vault)** | **开箱即用方法论开源知识库模版**<br/>深度融合卡片盒、PARA、GTD、敏捷Scrum、费曼学习法与四色引力星系图谱 | ![Obsidian](https://img.shields.io/badge/Obsidian-Template-purple?style=flat-square) ![PKM](https://img.shields.io/badge/PKM-Zettelkasten-orange?style=flat-square) |
+| 项目 | 简介 |
+| --- | --- |
+| [tech-radar-agent](https://github.com/dora-exploreLab/tech-radar-agent) | 自动追踪技术资讯并生成简报 |
+| [obsidian-tech-vault](https://github.com/dora-exploreLab/obsidian-tech-vault) | 面向开发者的 Obsidian 知识库模板 |
+
+### 开源贡献 (Open Source Contributions)
+
+| 项目 | 贡献 |
+| --- | --- |
+| [MetaCubeXD](https://github.com/MetaCubeX/metacubexd) | 修复 IP 查询服务失败时的回退逻辑（[#2259](https://github.com/MetaCubeX/metacubexd/pull/2259)，已合并） |
+| [Critique](https://github.com/BistaDinesh03/critique) | 补充如何运行指定测试的文档（[#56](https://github.com/BistaDinesh03/critique/pull/56)，已合并） |
 
 ---
 

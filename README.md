@@ -1,6 +1,4 @@
-<div align="center">
-  <img src="./assets/header-doraemon-pixel.jpg" width="100%" alt="doraBighead Pixel Art Header" />
-</div>
+<h1 align="center">doraBighead</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2600&pause=900&color=38BDF8&center=true&vCenter=true&width=640&lines=Building+Autonomous+AI+Agents+%26+Harness+Workflows+%F0%9F%A4%96;Architecting+Full-Stack+Systems+%26+Modern+PKM+%E2%9A%A1;Sharing+Engineering+Notes+at+dorabighead.xyz+%E2%9C%A8" alt="Typing SVG" />

@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/header-doraemon.svg" width="100%" alt="doraBighead Doraemon Header Banner" />
+  <img src="./assets/header-doraemon-pixel.jpg" width="100%" alt="doraBighead Pixel Art Header" />
 </div>
 
 <p align="center">
@@ -155,6 +155,3 @@
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=wxk2378643343-cloud&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&v=20261122" alt="Top Languages" height="160" />
 </p>
 
-<div align="center">
-  <img src="./assets/footer-doraemon.svg" width="100%" alt="doraBighead Doraemon Footer Banner" />
-</div>

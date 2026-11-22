@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E3A8A,100:0284C7&height=210&section=header&text=doraBighead&fontSize=56&fontColor=F8FAFC&fontAlignY=38&desc=AI%20Agent%20Engineer%20%E2%80%A2%20Full-Stack%20Builder%20%E2%80%A2%20Founder%20%40dora-exploreLab&descSize=16&descAlignY=62&animation=fadeIn" width="100%" alt="doraBighead Header Banner" />
+  <img src="./assets/header-doraemon.svg" width="100%" alt="doraBighead Doraemon Header Banner" />
 </div>
 
 <p align="center">
@@ -156,5 +156,5 @@
 </p>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0284C7,50:1E3A8A,100:0F172A&height=100&section=footer" width="100%" alt="Footer Wave" />
+  <img src="./assets/footer-doraemon.svg" width="100%" alt="doraBighead Doraemon Footer Banner" />
 </div>

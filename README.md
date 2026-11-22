@@ -26,9 +26,9 @@
   <tr>
     <td width="54%" valign="top">
       <b>🧭 核心定位</b><br/><br/>
-      • 🔭 <b>Founder <a href="https://github.com/dora-exploreLab">@dora-exploreLab</a></b>：专注 <b>AI Agent 智能体架构</b>、自动化情报数据流与知识蒸馏工程。<br/>
-      • 📝 <b>技术沉淀</b>：在 <a href="https://dorabighead.xyz/blog/"><b>dorabighead.xyz/blog</b></a> 持续输出全栈架构、Agent 实践与系统运维手记。<br/>
-      • 🤝 <b>开源协作</b>：活跃于代理工具链、开发者 CLI 与工程效率社区，欢迎 Issue / PR 交流。
+      • 🌱 <b>CS 学习者 &amp; 前端工程师</b>：从前端工程出发，系统补齐计算机科学底层基础，探索 <b>AI Agent</b> 与全栈系统架构。<br/>
+      • 📚 <b>2027 CS 自学计划</b>：跟随 <a href="https://csdiy.wiki/#cs61a"><b>CS自学指南</b></a>，计划精读《SICP》《算法（第 4 版）》《深入理解计算机系统（CSAPP）》《计算机网络：自顶向下方法》等经典书籍并输出笔记。<br/>
+      • 📝 <b>技术沉淀与开源</b>：在 <a href="https://dorabighead.xyz/blog/"><b>dorabighead.xyz/blog</b></a> 记录 CS 学习手记与工程实践，同时维护 <a href="https://github.com/dora-exploreLab"><b>@dora-exploreLab</b></a>，欢迎 Issue / PR 交流。
     </td>
     <td width="46%" valign="top">
       <b>⚡ 当前聚焦 · Current Focus</b><br/><br/>
@@ -69,7 +69,7 @@
         <img src="https://img.shields.io/badge/Agent_Skills-8B5CF6?style=flat-square" alt="Agent Skills" />
         <img src="https://img.shields.io/badge/Workflows-F59E0B?style=flat-square" alt="Workflows" />
       </p>
-      <p>沉淀软件开发规范与考研学习铁律的标准化 Agent Skills 与自动化工作流合集。</p>
+      <p>沉淀软件开发规范与通用学习方法的标准化 Agent Skills 与自动化工作流合集。</p>
     </td>
     <td width="50%" valign="top">
       <h4>📚 <a href="https://github.com/dora-exploreLab/obsidian-tech-vault">obsidian-tech-vault</a></h4>

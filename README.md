@@ -18,12 +18,28 @@
 
 ---
 
-### 开源项目 (Open Source Projects)
+### 公开项目 (Public Projects)
 
 | 项目 | 简介 |
 | --- | --- |
 | [tech-radar-agent](https://github.com/dora-exploreLab/tech-radar-agent) | 自动追踪技术资讯并生成简报 |
 | [obsidian-tech-vault](https://github.com/dora-exploreLab/obsidian-tech-vault) | 面向开发者的 Obsidian 知识库模板 |
+| [morning-brief-agent](https://github.com/wxk2378643343-cloud/morning-brief-agent) | 连接飞书、日历和待办的 Windows 自托管助手 |
+| [dora-skillhub](https://github.com/wxk2378643343-cloud/dora-skillhub) | 考研学习与软件开发的技能和工作流合集 |
+| [tech-financial-intelligence-daily](https://github.com/wxk2378643343-cloud/tech-financial-intelligence-daily) | 汇总技术、金融市场和开源动态的每日简报 |
+| [selab-ui](https://github.com/wxk2378643343-cloud/selab-ui) | 主导开发的 Vue 3 与 TypeScript 组件库（Fork） |
+| [pdf-to-word-ocr](https://github.com/wxk2378643343-cloud/pdf-to-word-ocr) | 识别日文 PDF 并导出 Word 文档 |
+| [job-listings-search](https://github.com/wxk2378643343-cloud/job-listings-search) | 招聘信息采集、筛选、收藏与导出 |
+| [pipeline-visualization-system](https://github.com/wxk2378643343-cloud/pipeline-visualization-system) | 通过微信小程序查看地下管线和井位 |
+| [user-interest-prediction](https://github.com/wxk2378643343-cloud/user-interest-prediction) | 基于 LSTM 与注意力机制的用户兴趣预测 |
+| [workhub-office-management](https://github.com/wxk2378643343-cloud/workhub-office-management) | 企业日常办公与审批管理系统 |
+| [employee-monthly-evaluation](https://github.com/wxk2378643343-cloud/employee-monthly-evaluation) | 员工月度评价、配置与结果汇总 |
+| [meeting-room-booking](https://github.com/wxk2378643343-cloud/meeting-room-booking) | 会议室、可预约时段和预约记录管理 |
+| [study-room-booking](https://github.com/wxk2378643343-cloud/study-room-booking) | 自习室座位预约、签到和离场管理 |
+| [mental-health-survey](https://github.com/wxk2378643343-cloud/mental-health-survey) | 心理健康问卷填写、自动评分和结果查询 |
+| [admissions-management](https://github.com/wxk2378643343-cloud/admissions-management) | 招生信息展示、学生业务办理和后台管理 |
+| [campus-logistics-management](https://github.com/wxk2378643343-cloud/campus-logistics-management) | 高校后勤业务、公告和服务流程管理 |
+| [swift-gov](https://github.com/wxk2378643343-cloud/swift-gov) | 居民事项申请和后台审批流程演示 |
 
 ### 开源贡献 (Open Source Contributions)
 

@@ -86,12 +86,12 @@
       <p>连接飞书、日程日历与待办事项的 Windows 自托管晨报与个人调度智能助手。</p>
     </td>
     <td width="50%" valign="top">
-      <h4>🗓️ <a href="https://github.com/wxk2378643343-cloud/meeting-room-booking">meeting-room-booking</a></h4>
+      <h4>🧠 <a href="https://github.com/wxk2378643343-cloud/user-interest-prediction">user-interest-prediction</a></h4>
       <p>
-        <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square" alt="Spring Boot" />
-        <img src="https://img.shields.io/badge/React_18_%26_Gantt-61DAFB?style=flat-square" alt="React 18 & Gantt" />
+        <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square" alt="PyTorch" />
+        <img src="https://img.shields.io/badge/Deep_Learning-0EA5E9?style=flat-square" alt="Deep Learning" />
       </p>
-      <p>基于 React 18 与 Spring Boot 的会议室预约调度平台，支持 30 分钟粒度甘特图日程、并发防冲突算法与 Excel 导入。</p>
+      <p>基于 2 层 LSTM 与 Self-Attention 机制的用户时序兴趣演化预测与个性化推荐全栈系统。</p>
     </td>
   </tr>
 </table>
@@ -100,20 +100,20 @@
   <summary><b>📂 展开查看全部其余 12 个公开项目（AI / 工具小程序 &amp; 全栈业务系统实践）</b></summary>
   <br/>
 
-  **🔬 AI、工具与行业应用（5）**
+  **🔬 AI、工具与行业应用（4）**
 
   | 项目 | 领域标签 | 简介 |
   | :--- | :---: | :--- |
   | [**tech-radar-agent**](https://github.com/dora-exploreLab/tech-radar-agent) | `AI Agent` | 自动追踪前沿技术资讯、多源聚合过滤并生成结构化技术雷达简报的智能体系统 |
   | [**tech-financial-intelligence-daily**](https://github.com/wxk2378643343-cloud/tech-financial-intelligence-daily) | `Data Pipeline` | 每日自动抓取、提纯并汇总全球技术动态与金融市场的情报流 |
-  | [**user-interest-prediction**](https://github.com/wxk2378643343-cloud/user-interest-prediction) | `Deep Learning` | 基于 LSTM 与注意力机制（Attention）的用户兴趣预测模型 |
   | [**pdf-to-word-ocr**](https://github.com/wxk2378643343-cloud/pdf-to-word-ocr) | `OCR / Python` | 自动识别日文 PDF 扫描件并排版导出 Word 文档 |
   | [**job-listings-search**](https://github.com/wxk2378643343-cloud/job-listings-search) | `Crawler / Tool` | 招聘信息自动化采集、多维筛选、收藏与导出工具 |
 
-  **🏢 全栈业务管理系统实践（7）**
+  **🏢 全栈业务管理系统实践（8）**
 
   | 项目 | 领域标签 | 简介 |
   | :--- | :---: | :--- |
+  | [**meeting-room-booking**](https://github.com/wxk2378643343-cloud/meeting-room-booking) | `Booking` | 会议室资源、30 分钟粒度时段调度与防冲突预约管理系统 |
   | [**workhub-office-management**](https://github.com/wxk2378643343-cloud/workhub-office-management) | `Enterprise OA` | 企业日常办公与多级审批管理系统 |
   | [**employee-monthly-evaluation**](https://github.com/wxk2378643343-cloud/employee-monthly-evaluation) | `HR / Analytics` | 员工月度评价指标配置、打分与结果汇总系统 |
   | [**study-room-booking**](https://github.com/wxk2378643343-cloud/study-room-booking) | `Campus` | 自习室座位预约、扫码签到与离场管理系统 |

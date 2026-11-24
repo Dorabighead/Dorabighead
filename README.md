@@ -42,7 +42,7 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h4>🧩 <a href="https://github.com/wxk2378643343-cloud/dora-skillhub">dora-skillhub</a></h4>
+      <h4>🧩 <a href="https://github.com/Dorabighead/dora-skillhub">dora-skillhub</a></h4>
       <p>
         <img src="https://img.shields.io/badge/Agent_Skills-8B5CF6?style=flat-square" alt="Agent Skills" />
         <img src="https://img.shields.io/badge/Workflows-F59E0B?style=flat-square" alt="Workflows" />
@@ -50,7 +50,7 @@
       <p>沉淀软件开发规范与通用学习方法的标准化 Agent Skills 与自动化工作流合集。</p>
     </td>
     <td width="50%" valign="top">
-      <h4>🗺️ <a href="https://github.com/wxk2378643343-cloud/pipeline-visualization-system">pipeline-visualization-system</a></h4>
+      <h4>🗺️ <a href="https://github.com/Dorabighead/pipeline-visualization-system">pipeline-visualization-system</a></h4>
       <p>
         <img src="https://img.shields.io/badge/Algorithm-K--D_Tree-8B5CF6?style=flat-square" alt="Algorithm K-D Tree" />
         <img src="https://img.shields.io/badge/Spatial_Index-O(log_N)-0EA5E9?style=flat-square" alt="Spatial Index" />
@@ -60,7 +60,7 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h4>🎨 <a href="https://github.com/wxk2378643343-cloud/selab-ui">selab-ui</a></h4>
+      <h4>🎨 <a href="https://github.com/Dorabighead/selab-ui">selab-ui</a></h4>
       <p>
         <img src="https://img.shields.io/badge/Vue_3-16835D?style=flat-square" alt="Vue 3" />
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square" alt="TypeScript" />
@@ -78,7 +78,7 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h4>☀️ <a href="https://github.com/wxk2378643343-cloud/morning-brief-agent">morning-brief-agent</a></h4>
+      <h4>☀️ <a href="https://github.com/Dorabighead/morning-brief-agent">morning-brief-agent</a></h4>
       <p>
         <img src="https://img.shields.io/badge/Windows_Self--Hosted-2563EB?style=flat-square" alt="Self-Hosted" />
         <img src="https://img.shields.io/badge/Feishu_%26_Calendar-10B981?style=flat-square" alt="Feishu" />
@@ -86,7 +86,7 @@
       <p>连接飞书、日程日历与待办事项的 Windows 自托管晨报与个人调度智能助手。</p>
     </td>
     <td width="50%" valign="top">
-      <h4>🧠 <a href="https://github.com/wxk2378643343-cloud/user-interest-prediction">user-interest-prediction</a></h4>
+      <h4>🧠 <a href="https://github.com/Dorabighead/user-interest-prediction">user-interest-prediction</a></h4>
       <p>
         <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square" alt="PyTorch" />
         <img src="https://img.shields.io/badge/Deep_Learning-0EA5E9?style=flat-square" alt="Deep Learning" />
@@ -105,22 +105,22 @@
   | 项目 | 领域标签 | 简介 |
   | :--- | :---: | :--- |
   | [**tech-radar-agent**](https://github.com/dora-exploreLab/tech-radar-agent) | `AI Agent` | 自动追踪前沿技术资讯、多源聚合过滤并生成结构化技术雷达简报的智能体系统 |
-  | [**tech-financial-intelligence-daily**](https://github.com/wxk2378643343-cloud/tech-financial-intelligence-daily) | `Data Pipeline` | 每日自动抓取、提纯并汇总全球技术动态与金融市场的情报流 |
-  | [**pdf-to-word-ocr**](https://github.com/wxk2378643343-cloud/pdf-to-word-ocr) | `OCR / Python` | 自动识别日文 PDF 扫描件并排版导出 Word 文档 |
-  | [**job-listings-search**](https://github.com/wxk2378643343-cloud/job-listings-search) | `Crawler / Tool` | 招聘信息自动化采集、多维筛选、收藏与导出工具 |
+  | [**tech-financial-intelligence-daily**](https://github.com/Dorabighead/tech-financial-intelligence-daily) | `Data Pipeline` | 每日自动抓取、提纯并汇总全球技术动态与金融市场的情报流 |
+  | [**pdf-to-word-ocr**](https://github.com/Dorabighead/pdf-to-word-ocr) | `OCR / Python` | 自动识别日文 PDF 扫描件并排版导出 Word 文档 |
+  | [**job-listings-search**](https://github.com/Dorabighead/job-listings-search) | `Crawler / Tool` | 招聘信息自动化采集、多维筛选、收藏与导出工具 |
 
   **🏢 全栈业务管理系统实践（8）**
 
   | 项目 | 领域标签 | 简介 |
   | :--- | :---: | :--- |
-  | [**meeting-room-booking**](https://github.com/wxk2378643343-cloud/meeting-room-booking) | `Booking` | 会议室资源、30 分钟粒度时段调度与防冲突预约管理系统 |
-  | [**workhub-office-management**](https://github.com/wxk2378643343-cloud/workhub-office-management) | `Enterprise OA` | 企业日常办公与多级审批管理系统 |
-  | [**employee-monthly-evaluation**](https://github.com/wxk2378643343-cloud/employee-monthly-evaluation) | `HR / Analytics` | 员工月度评价指标配置、打分与结果汇总系统 |
-  | [**study-room-booking**](https://github.com/wxk2378643343-cloud/study-room-booking) | `Campus` | 自习室座位预约、扫码签到与离场管理系统 |
-  | [**mental-health-survey**](https://github.com/wxk2378643343-cloud/mental-health-survey) | `Assessment` | 心理健康问卷填写、自动评分与结果查询平台 |
-  | [**admissions-management**](https://github.com/wxk2378643343-cloud/admissions-management) | `Education` | 招生信息展示、学生业务在线办理与后台管理 |
-  | [**campus-logistics-management**](https://github.com/wxk2378643343-cloud/campus-logistics-management) | `Campus` | 高校后勤报修业务、公告发布与服务流程管理 |
-  | [**swift-gov**](https://github.com/wxk2378643343-cloud/swift-gov) | `E-Gov` | 居民事项线上申请与政务后台审批流程演示系统 |
+  | [**meeting-room-booking**](https://github.com/Dorabighead/meeting-room-booking) | `Booking` | 会议室资源、30 分钟粒度时段调度与防冲突预约管理系统 |
+  | [**workhub-office-management**](https://github.com/Dorabighead/workhub-office-management) | `Enterprise OA` | 企业日常办公与多级审批管理系统 |
+  | [**employee-monthly-evaluation**](https://github.com/Dorabighead/employee-monthly-evaluation) | `HR / Analytics` | 员工月度评价指标配置、打分与结果汇总系统 |
+  | [**study-room-booking**](https://github.com/Dorabighead/study-room-booking) | `Campus` | 自习室座位预约、扫码签到与离场管理系统 |
+  | [**mental-health-survey**](https://github.com/Dorabighead/mental-health-survey) | `Assessment` | 心理健康问卷填写、自动评分与结果查询平台 |
+  | [**admissions-management**](https://github.com/Dorabighead/admissions-management) | `Education` | 招生信息展示、学生业务在线办理与后台管理 |
+  | [**campus-logistics-management**](https://github.com/Dorabighead/campus-logistics-management) | `Campus` | 高校后勤报修业务、公告发布与服务流程管理 |
+  | [**swift-gov**](https://github.com/Dorabighead/swift-gov) | `E-Gov` | 居民事项线上申请与政务后台审批流程演示系统 |
 </details>
 
 ---
@@ -147,7 +147,7 @@
 ### 📊 数据与活跃统计 · GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=wxk2378643343-cloud&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8" alt="doraBighead GitHub Stats" height="160" />
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=wxk2378643343-cloud&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&v=20261122" alt="Top Languages" height="160" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=Dorabighead&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8" alt="doraBighead GitHub Stats" height="160" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Dorabighead&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&v=20261122" alt="Top Languages" height="160" />
 </p>
 

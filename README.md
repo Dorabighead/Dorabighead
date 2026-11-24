@@ -42,6 +42,14 @@
 <table>
   <tr>
     <td width="50%" valign="top">
+      <h4>🗺️ <a href="https://github.com/wxk2378643343-cloud/pipeline-visualization-system">pipeline-visualization-system</a></h4>
+      <p>
+        <img src="https://img.shields.io/badge/Algorithm-K--D_Tree-8B5CF6?style=flat-square" alt="Algorithm K-D Tree" />
+        <img src="https://img.shields.io/badge/Spatial_Index-O(log_N)-0EA5E9?style=flat-square" alt="Spatial Index" />
+      </p>
+      <p>基于二维 K-D 树空间划分索引与端侧回溯剪枝几何命中算法，实现大规模地下管网亚毫秒级检索（$O(\log N + k)$）与拓扑可视化。</p>
+    </td>
+    <td width="50%" valign="top">
       <h4>🛰️ <a href="https://github.com/dora-exploreLab/tech-radar-agent">tech-radar-agent</a></h4>
       <p>
         <img src="https://img.shields.io/badge/AI_Agent-0EA5E9?style=flat-square" alt="AI Agent" />
@@ -49,6 +57,8 @@
       </p>
       <p>自动追踪前沿技术资讯、多源聚合过滤并生成结构化技术雷达简报的智能体系统。</p>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h4>☀️ <a href="https://github.com/wxk2378643343-cloud/morning-brief-agent">morning-brief-agent</a></h4>
       <p>
@@ -57,8 +67,6 @@
       </p>
       <p>连接飞书、日程日历与待办事项的 Windows 自托管晨报与个人调度智能助手。</p>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <h4>🧩 <a href="https://github.com/wxk2378643343-cloud/dora-skillhub">dora-skillhub</a></h4>
       <p>
@@ -67,6 +75,8 @@
       </p>
       <p>沉淀软件开发规范与通用学习方法的标准化 Agent Skills 与自动化工作流合集。</p>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h4>📚 <a href="https://github.com/dora-exploreLab/obsidian-tech-vault">obsidian-tech-vault</a></h4>
       <p>
@@ -75,23 +85,13 @@
       </p>
       <p>面向工程师的 Obsidian 第二大脑与技术知识库标准架构模板，支持项目与方案闭环留痕。</p>
     </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>📰 <a href="https://github.com/wxk2378643343-cloud/tech-financial-intelligence-daily">tech-financial-intelligence-daily</a></h4>
-      <p>
-        <img src="https://img.shields.io/badge/Data_Pipeline-0284C7?style=flat-square" alt="Data Pipeline" />
-        <img src="https://img.shields.io/badge/Daily_Brief-EC4899?style=flat-square" alt="Daily Brief" />
-      </p>
-      <p>每日自动抓取、提纯并汇总全球技术动态、金融市场与开源社区热点的情报简报流。</p>
-    </td>
     <td width="50%" valign="top">
       <h4>🎨 <a href="https://github.com/wxk2378643343-cloud/selab-ui">selab-ui</a></h4>
       <p>
         <img src="https://img.shields.io/badge/Vue_3-16835D?style=flat-square" alt="Vue 3" />
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square" alt="TypeScript" />
       </p>
-      <p>主导开发的 Vue 3 与 TypeScript 现代化前端组件库（Fork），注重类型完备与工程规范。</p>
+      <p>主导开发的 Vue 3 与 TypeScript 现代化前端组件库，注重类型完备与工程规范。</p>
     </td>
   </tr>
 </table>
@@ -104,10 +104,10 @@
 
   | 项目 | 领域标签 | 简介 |
   | :--- | :---: | :--- |
+  | [**tech-financial-intelligence-daily**](https://github.com/wxk2378643343-cloud/tech-financial-intelligence-daily) | `Data Pipeline` | 每日自动抓取、提纯并汇总全球技术动态与金融市场的情报流 |
   | [**user-interest-prediction**](https://github.com/wxk2378643343-cloud/user-interest-prediction) | `Deep Learning` | 基于 LSTM 与注意力机制（Attention）的用户兴趣预测模型 |
   | [**pdf-to-word-ocr**](https://github.com/wxk2378643343-cloud/pdf-to-word-ocr) | `OCR / Python` | 自动识别日文 PDF 扫描件并排版导出 Word 文档 |
   | [**job-listings-search**](https://github.com/wxk2378643343-cloud/job-listings-search) | `Crawler / Tool` | 招聘信息自动化采集、多维筛选、收藏与导出工具 |
-  | [**pipeline-visualization-system**](https://github.com/wxk2378643343-cloud/pipeline-visualization-system) | `WeChat MiniApp` | 通过微信小程序可视化查看地下管线分布与井位信息 |
 
   **🏢 全栈业务管理系统实践（8）**
 

@@ -130,6 +130,7 @@
 | 开源项目 | 状态 | 贡献详情 |
 | :--- | :---: | :--- |
 | [**MetaCubeX / metacubexd**](https://github.com/MetaCubeX/metacubexd) | <a href="https://github.com/MetaCubeX/metacubexd/pull/2259"><img src="https://img.shields.io/badge/PR_%232259-Merged-8957E5?style=flat-square&logo=git&logoColor=white" alt="PR #2259 Merged" /></a> | 修复 IP 查询服务失败时的回退（Fallback）逻辑，提升弱网与异常场景稳定性 |
+| [**JoeyHammoth / Swipeline**](https://github.com/JoeyHammoth/Swipeline) | <a href="https://github.com/JoeyHammoth/Swipeline/pull/65"><img src="https://img.shields.io/badge/PR_%2365-Merged-8957E5?style=flat-square&logo=git&logoColor=white" alt="PR #65 Merged" /></a> | 修复 HTTP JSON 适配器在请求取消（`AbortSignal`）后误入退避重试与继续解析响应体的问题 |
 | [**JoeyHammoth / Swipeline**](https://github.com/JoeyHammoth/Swipeline) | <a href="https://github.com/JoeyHammoth/Swipeline/pull/63"><img src="https://img.shields.io/badge/PR_%2363-Merged-8957E5?style=flat-square&logo=git&logoColor=white" alt="PR #63 Merged" /></a> | 修复 SQLite 向量索引写入失败时错误递增 `size` 计数的问题，保障存储与内存状态一致性 |
 | [**BistaDinesh03 / critique**](https://github.com/BistaDinesh03/critique) | <a href="https://github.com/BistaDinesh03/critique/pull/56"><img src="https://img.shields.io/badge/PR_%2356-Merged-8957E5?style=flat-square&logo=git&logoColor=white" alt="PR #56 Merged" /></a> | 补充定向运行指定单元测试的开发者文档说明 |
 
